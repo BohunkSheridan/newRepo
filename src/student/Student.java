@@ -4,15 +4,15 @@
  * and open the template in the editor.
  */
 
-package student;
+package student; //comment to check
 
 /**
  *
  * @author Megha,week1
  */
 public class Student {
-        public String name;
-        public int id;
+        private String name;
+        private int id;
 
     /**
      * @return the name
